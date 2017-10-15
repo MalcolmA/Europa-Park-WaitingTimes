@@ -9,3 +9,9 @@ Retrieves and displays current waiting times of attractions and rides in Europa-
 ## Notes
 - This is intended solely for educational purposes.
 - Please make sure this is legal in your jurisdiction.
+
+# Perspective
+- Save waiting data for a long period to predict future waiting times.
+- Intelligently link that data with weather forecast, national holidays, long weekend etc.
+
+![Perspective](https://user-images.githubusercontent.com/342334/31584113-2b16f7ec-b1a8-11e7-8f88-8f45b53a76fe.png)
